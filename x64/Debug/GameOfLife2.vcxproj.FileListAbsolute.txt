@@ -1,0 +1,2 @@
+C:\Users\gregb\Desktop\cppCrashCourse\GameOfLife2\x64\Debug\GameOfLife2.exe
+C:\dev\cpp\game-of-life2\x64\Debug\GameOfLife2.exe
